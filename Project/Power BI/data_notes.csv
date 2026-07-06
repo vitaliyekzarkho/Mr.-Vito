@@ -1,0 +1,9 @@
+area,note,impact,severity
+Geography,"Homelessness data is reported by homelessness region; population, rent and housing data are county-based and are aggregated via the geography bridge.",Regional comparisons depend on the bridge assumptions.,Medium
+Accommodation,Accommodation category totals do not perfectly equal total adults in every region; Mid-West has the largest gap.,Accommodation page shows category shares relative to total adults and keeps the validation caveat visible.,High
+Rent,"Rent is a half-year time series, while homelessness is a regional snapshot repeated across rent periods.","Rent pressure visuals show association only, not a time-aligned causal analysis.",High
+Housing,"2024 housing prices and supply are available, but 2024 earnings are unavailable.","Price-to-income ratio defaults to 2023, the latest complete affordability year.",High
+Unemployment,"Unemployment is NUTS2-level, not county or homelessness-region level.",Economic context should be read as broad regional context.,Medium
+North-East,"North-East spans two NUTS2 regions: Eastern and Midland, and Northern and Western.",North-East unemployment context is mixed geography and should not be collapsed silently.,High
+Causality,"Rent, housing affordability and unemployment pages show observed association, not causation.",Interpretations should use careful wording and avoid claims that one metric causes homelessness.,High
+Population,Homelessness rates use 2022 county population aggregated to homelessness regions.,Rates are suitable for regional comparison but depend on the chosen population year.,Low

@@ -1,0 +1,24 @@
+# Local / tool state
+.agents/
+.codex/
+
+# Runtime dependencies and temporary build folders
+work/node_modules/
+work/presentations/
+**/node_modules/
+
+# Inspection and temporary QA files
+*.inspect.ndjson
+*.tmp
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS metadata
+Thumbs.db
+.DS_Store
+
+# Office temporary lock files
+~$*

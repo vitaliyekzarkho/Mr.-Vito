@@ -1,0 +1,61 @@
+homelessness_region,nuts2_region,year,unemployment_rate,county_count_in_nuts2,nuts2_count,unemployment_join_note,population_year,homeless_adults,population,homeless_adults_per_10000
+Dublin,Eastern and Midland,2019,4.7,1,1,Direct NUTS2 join safe,2022,8349,1458154,57.26
+Mid-East,Eastern and Midland,2019,4.7,3,1,Direct NUTS2 join safe,2022,636,624451,10.18
+Mid-West,Southern,2019,5.5,3,1,Direct NUTS2 join safe,2022,730,505369,14.44
+Midlands,Eastern and Midland,2019,4.7,4,1,Direct NUTS2 join safe,2022,223,317999,7.01
+North-East,Eastern and Midland,2019,4.7,1,2,Mixed NUTS2 region - interpret with caution,2022,172,286695,6.0
+North-East,Northern and Western,2019,4.7,2,2,Mixed NUTS2 region - interpret with caution,2022,172,286695,6.0
+North-West,Northern and Western,2019,4.7,3,1,Direct NUTS2 join safe,2022,161,272481,5.91
+South-East,Southern,2019,5.5,4,1,Direct NUTS2 join safe,2022,356,457410,7.78
+South-West,Southern,2019,5.5,2,1,Direct NUTS2 join safe,2022,897,740614,12.11
+West,Northern and Western,2019,4.7,3,1,Direct NUTS2 join safe,2022,420,485966,8.64
+Dublin,Eastern and Midland,2020,6.0,1,1,Direct NUTS2 join safe,2022,8349,1458154,57.26
+Mid-East,Eastern and Midland,2020,6.0,3,1,Direct NUTS2 join safe,2022,636,624451,10.18
+Mid-West,Southern,2020,6.0,3,1,Direct NUTS2 join safe,2022,730,505369,14.44
+Midlands,Eastern and Midland,2020,6.0,4,1,Direct NUTS2 join safe,2022,223,317999,7.01
+North-East,Eastern and Midland,2020,6.0,1,2,Mixed NUTS2 region - interpret with caution,2022,172,286695,6.0
+North-East,Northern and Western,2020,5.2,2,2,Mixed NUTS2 region - interpret with caution,2022,172,286695,6.0
+North-West,Northern and Western,2020,5.2,3,1,Direct NUTS2 join safe,2022,161,272481,5.91
+South-East,Southern,2020,6.0,4,1,Direct NUTS2 join safe,2022,356,457410,7.78
+South-West,Southern,2020,6.0,2,1,Direct NUTS2 join safe,2022,897,740614,12.11
+West,Northern and Western,2020,5.2,3,1,Direct NUTS2 join safe,2022,420,485966,8.64
+Dublin,Eastern and Midland,2021,6.7,1,1,Direct NUTS2 join safe,2022,8349,1458154,57.26
+Mid-East,Eastern and Midland,2021,6.7,3,1,Direct NUTS2 join safe,2022,636,624451,10.18
+Mid-West,Southern,2021,6.8,3,1,Direct NUTS2 join safe,2022,730,505369,14.44
+Midlands,Eastern and Midland,2021,6.7,4,1,Direct NUTS2 join safe,2022,223,317999,7.01
+North-East,Eastern and Midland,2021,6.7,1,2,Mixed NUTS2 region - interpret with caution,2022,172,286695,6.0
+North-East,Northern and Western,2021,4.8,2,2,Mixed NUTS2 region - interpret with caution,2022,172,286695,6.0
+North-West,Northern and Western,2021,4.8,3,1,Direct NUTS2 join safe,2022,161,272481,5.91
+South-East,Southern,2021,6.8,4,1,Direct NUTS2 join safe,2022,356,457410,7.78
+South-West,Southern,2021,6.8,2,1,Direct NUTS2 join safe,2022,897,740614,12.11
+West,Northern and Western,2021,4.8,3,1,Direct NUTS2 join safe,2022,420,485966,8.64
+Dublin,Eastern and Midland,2022,4.9,1,1,Direct NUTS2 join safe,2022,8349,1458154,57.26
+Mid-East,Eastern and Midland,2022,4.9,3,1,Direct NUTS2 join safe,2022,636,624451,10.18
+Mid-West,Southern,2022,4.2,3,1,Direct NUTS2 join safe,2022,730,505369,14.44
+Midlands,Eastern and Midland,2022,4.9,4,1,Direct NUTS2 join safe,2022,223,317999,7.01
+North-East,Eastern and Midland,2022,4.9,1,2,Mixed NUTS2 region - interpret with caution,2022,172,286695,6.0
+North-East,Northern and Western,2022,3.6,2,2,Mixed NUTS2 region - interpret with caution,2022,172,286695,6.0
+North-West,Northern and Western,2022,3.6,3,1,Direct NUTS2 join safe,2022,161,272481,5.91
+South-East,Southern,2022,4.2,4,1,Direct NUTS2 join safe,2022,356,457410,7.78
+South-West,Southern,2022,4.2,2,1,Direct NUTS2 join safe,2022,897,740614,12.11
+West,Northern and Western,2022,3.6,3,1,Direct NUTS2 join safe,2022,420,485966,8.64
+Dublin,Eastern and Midland,2023,4.2,1,1,Direct NUTS2 join safe,2022,8349,1458154,57.26
+Mid-East,Eastern and Midland,2023,4.2,3,1,Direct NUTS2 join safe,2022,636,624451,10.18
+Mid-West,Southern,2023,4.6,3,1,Direct NUTS2 join safe,2022,730,505369,14.44
+Midlands,Eastern and Midland,2023,4.2,4,1,Direct NUTS2 join safe,2022,223,317999,7.01
+North-East,Eastern and Midland,2023,4.2,1,2,Mixed NUTS2 region - interpret with caution,2022,172,286695,6.0
+North-East,Northern and Western,2023,3.7,2,2,Mixed NUTS2 region - interpret with caution,2022,172,286695,6.0
+North-West,Northern and Western,2023,3.7,3,1,Direct NUTS2 join safe,2022,161,272481,5.91
+South-East,Southern,2023,4.6,4,1,Direct NUTS2 join safe,2022,356,457410,7.78
+South-West,Southern,2023,4.6,2,1,Direct NUTS2 join safe,2022,897,740614,12.11
+West,Northern and Western,2023,3.7,3,1,Direct NUTS2 join safe,2022,420,485966,8.64
+Dublin,Eastern and Midland,2024,4.6,1,1,Direct NUTS2 join safe,2022,8349,1458154,57.26
+Mid-East,Eastern and Midland,2024,4.6,3,1,Direct NUTS2 join safe,2022,636,624451,10.18
+Mid-West,Southern,2024,4.6,3,1,Direct NUTS2 join safe,2022,730,505369,14.44
+Midlands,Eastern and Midland,2024,4.6,4,1,Direct NUTS2 join safe,2022,223,317999,7.01
+North-East,Eastern and Midland,2024,4.6,1,2,Mixed NUTS2 region - interpret with caution,2022,172,286695,6.0
+North-East,Northern and Western,2024,4.2,2,2,Mixed NUTS2 region - interpret with caution,2022,172,286695,6.0
+North-West,Northern and Western,2024,4.2,3,1,Direct NUTS2 join safe,2022,161,272481,5.91
+South-East,Southern,2024,4.6,4,1,Direct NUTS2 join safe,2022,356,457410,7.78
+South-West,Southern,2024,4.6,2,1,Direct NUTS2 join safe,2022,897,740614,12.11
+West,Northern and Western,2024,4.2,3,1,Direct NUTS2 join safe,2022,420,485966,8.64

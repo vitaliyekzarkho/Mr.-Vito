@@ -1,0 +1,530 @@
+[
+  {
+    "dataset": "Unemployment",
+    "file": "C:\\Users\\User\\Desktop\\Ireland Homelessness Project\\Raw Data\\unemployment.csv.csv",
+    "rows": 1728,
+    "columns": 14,
+    "headers": [
+      "STATISTIC",
+      "Statistic Label",
+      "TLIST(A1)",
+      "Year",
+      "C02076V03371",
+      "Age Group",
+      "C02199V02655",
+      "Sex",
+      "C04283V05060",
+      "Education Attainment Level",
+      "C03788V04538",
+      "NUTS 2 Region",
+      "UNIT",
+      "VALUE"
+    ],
+    "critical_columns": [
+      "Year",
+      "Age Group",
+      "Sex",
+      "Education Attainment Level",
+      "NUTS 2 Region",
+      "VALUE"
+    ],
+    "logical_key": [
+      "Year",
+      "Age Group",
+      "Sex",
+      "Education Attainment Level",
+      "NUTS 2 Region"
+    ],
+    "unique_counts": {
+      "Year": 6,
+      "NUTS 2 Region": 4
+    },
+    "checks": [
+      {
+        "Validation Check": "Missing values - all columns",
+        "Result": "Found",
+        "Details": "1109"
+      },
+      {
+        "Validation Check": "Missing values - critical columns",
+        "Result": "Found",
+        "Details": "1109"
+      },
+      {
+        "Validation Check": "Negative numeric values",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Non-numeric values in numeric columns",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Integer fields",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Duplicate logical keys",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Text consistency",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Date / period validity",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Domain range checks",
+        "Result": "Pass",
+        "Details": "0"
+      }
+    ],
+    "overall": "Review required",
+    "duplicate_samples": [],
+    "text_issues": [],
+    "date_issues": [],
+    "range_issues": [],
+    "numeric_issues": [],
+    "arithmetic": []
+  },
+  {
+    "dataset": "Housing Prices",
+    "file": "C:\\Users\\User\\Desktop\\Ireland Homelessness Project\\Raw Data\\housing_prices.xlsx",
+    "rows": 390,
+    "columns": 8,
+    "headers": [
+      "Year",
+      "County",
+      "Mean Sale Price",
+      "Median Annual Earnings",
+      "Total Dwellings Built",
+      "Estd. Total Floor Area (sqm)",
+      "Weighted Avg Dwelling Size (sqm)",
+      "Price per sqm"
+    ],
+    "critical_columns": [
+      "Year",
+      "County",
+      "Mean Sale Price"
+    ],
+    "logical_key": [
+      "Year",
+      "County"
+    ],
+    "unique_counts": {
+      "Year": 15,
+      "County": 26
+    },
+    "checks": [
+      {
+        "Validation Check": "Missing values - all columns",
+        "Result": "Found",
+        "Details": "260"
+      },
+      {
+        "Validation Check": "Missing values - critical columns",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Negative numeric values",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Non-numeric values in numeric columns",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Integer fields",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Duplicate logical keys",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Text consistency",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Date / period validity",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Domain range checks",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Estd. Total Floor Area / Total Dwellings Built = Weighted Avg Dwelling Size",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Mean Sale Price / Weighted Avg Dwelling Size = Price per sqm",
+        "Result": "Pass",
+        "Details": "0"
+      }
+    ],
+    "overall": "Pass",
+    "duplicate_samples": [],
+    "text_issues": [],
+    "date_issues": [],
+    "range_issues": [],
+    "numeric_issues": [],
+    "arithmetic": [
+      {
+        "Check": "Estd. Total Floor Area / Total Dwellings Built = Weighted Avg Dwelling Size",
+        "Result": "Pass",
+        "Issues": 0,
+        "Samples": []
+      },
+      {
+        "Check": "Mean Sale Price / Weighted Avg Dwelling Size = Price per sqm",
+        "Result": "Pass",
+        "Issues": 0,
+        "Samples": []
+      }
+    ]
+  },
+  {
+    "dataset": "Housing Supply / Sales",
+    "file": "C:\\Users\\User\\Desktop\\Ireland Homelessness Project\\Raw Data\\housing_supply.xlsx.csv",
+    "rows": 167176,
+    "columns": 9,
+    "headers": [
+      "Date of Sale",
+      "Address",
+      "Postal Code",
+      "County",
+      "Price",
+      "Not Full Market Price",
+      "VAT Exclusive",
+      "Description of Property",
+      "Property Size Description"
+    ],
+    "critical_columns": [
+      "Date of Sale",
+      "Address",
+      "County",
+      "Price"
+    ],
+    "logical_key": [
+      "Date of Sale",
+      "Address",
+      "County",
+      "Price"
+    ],
+    "unique_counts": {
+      "County": 1
+    },
+    "checks": [
+      {
+        "Validation Check": "Missing values - all columns",
+        "Result": "Found",
+        "Details": "10916"
+      },
+      {
+        "Validation Check": "Missing values - critical columns",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Negative numeric values",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Non-numeric values in numeric columns",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Integer fields",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Duplicate logical keys",
+        "Result": "Found",
+        "Details": "644"
+      },
+      {
+        "Validation Check": "Text consistency",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Date / period validity",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Domain range checks",
+        "Result": "Pass",
+        "Details": "0"
+      }
+    ],
+    "overall": "Review required",
+    "duplicate_samples": [
+      {
+        "Date of Sale": "11/03/22",
+        "Address": "62, COULTRY GARDENS, BALLYMUN DUBLIN 9",
+        "County": "Dublin",
+        "Price": "132600"
+      },
+      {
+        "Date of Sale": "11/03/22",
+        "Address": "62, COULTRY GARDENS, BALLYMUN DUBLIN 9",
+        "County": "Dublin",
+        "Price": "132600"
+      },
+      {
+        "Date of Sale": "08/03/22",
+        "Address": "4 HAROLD RD, DUBLIN 7",
+        "County": "Dublin",
+        "Price": "480000"
+      },
+      {
+        "Date of Sale": "08/03/22",
+        "Address": "4 HAROLD RD, DUBLIN 7",
+        "County": "Dublin",
+        "Price": "480000"
+      },
+      {
+        "Date of Sale": "03/03/22",
+        "Address": "THE MALL, RUSH, DUBLIN",
+        "County": "Dublin",
+        "Price": "132500"
+      },
+      {
+        "Date of Sale": "03/03/22",
+        "Address": "THE MALL, RUSH, DUBLIN",
+        "County": "Dublin",
+        "Price": "132500"
+      },
+      {
+        "Date of Sale": "28/02/22",
+        "Address": "149 BLOCK N CEDAR PLACE, RIDGEWOOD, SWORDS",
+        "County": "Dublin",
+        "Price": "345763.76"
+      },
+      {
+        "Date of Sale": "28/02/22",
+        "Address": "149 BLOCK N CEDAR PLACE, RIDGEWOOD, SWORDS",
+        "County": "Dublin",
+        "Price": "345763.76"
+      },
+      {
+        "Date of Sale": "21/02/22",
+        "Address": "13 TERENURE ROAD EAST, RATHGAR, DUBLIN 6",
+        "County": "Dublin",
+        "Price": "250000"
+      },
+      {
+        "Date of Sale": "21/02/22",
+        "Address": "13 TERENURE ROAD EAST, RATHGAR, DUBLIN 6",
+        "County": "Dublin",
+        "Price": "250000"
+      }
+    ],
+    "text_issues": [],
+    "date_issues": [],
+    "range_issues": [],
+    "numeric_issues": [],
+    "arithmetic": []
+  },
+  {
+    "dataset": "Population by County",
+    "file": "C:\\Users\\User\\Desktop\\Ireland Homelessness Project\\Raw Data\\population_by_county.csv.csv",
+    "rows": 54,
+    "columns": 8,
+    "headers": [
+      "STATISTIC",
+      "Statistic Label",
+      "TLIST(A1)",
+      "Year",
+      "C03788V04538",
+      "County",
+      "UNIT",
+      "VALUE"
+    ],
+    "critical_columns": [
+      "Year",
+      "County",
+      "VALUE"
+    ],
+    "logical_key": [
+      "Year",
+      "County",
+      "UNIT"
+    ],
+    "unique_counts": {
+      "Year": 1,
+      "County": 27
+    },
+    "checks": [
+      {
+        "Validation Check": "Missing values - all columns",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Missing values - critical columns",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Negative numeric values",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Non-numeric values in numeric columns",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Integer fields",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Duplicate logical keys",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Text consistency",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Date / period validity",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Domain range checks",
+        "Result": "Pass",
+        "Details": "0"
+      }
+    ],
+    "overall": "Pass",
+    "duplicate_samples": [],
+    "text_issues": [],
+    "date_issues": [],
+    "range_issues": [],
+    "numeric_issues": [],
+    "arithmetic": []
+  },
+  {
+    "dataset": "Rent by County",
+    "file": "C:\\Users\\User\\Desktop\\Ireland Homelessness Project\\Raw Data\\rent_by_county.csv.csv",
+    "rows": 286,
+    "columns": 15,
+    "headers": [
+      "rent_euro",
+      "year",
+      "half",
+      "half_year",
+      "time_period",
+      "county",
+      "province",
+      "area",
+      "location",
+      "property_type",
+      "bedrooms",
+      "bedrooms_num",
+      "is_dublin",
+      "is_city",
+      "is_county_aggregate"
+    ],
+    "critical_columns": [
+      "rent_euro",
+      "year",
+      "half",
+      "half_year",
+      "county"
+    ],
+    "logical_key": [
+      "year",
+      "half_year",
+      "county",
+      "property_type",
+      "bedrooms"
+    ],
+    "unique_counts": {
+      "year": 6,
+      "county": 26,
+      "half_year": 11
+    },
+    "checks": [
+      {
+        "Validation Check": "Missing values - all columns",
+        "Result": "Found",
+        "Details": "286"
+      },
+      {
+        "Validation Check": "Missing values - critical columns",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Negative numeric values",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Non-numeric values in numeric columns",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Integer fields",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Duplicate logical keys",
+        "Result": "None",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Text consistency",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Date / period validity",
+        "Result": "Pass",
+        "Details": "0"
+      },
+      {
+        "Validation Check": "Domain range checks",
+        "Result": "Pass",
+        "Details": "0"
+      }
+    ],
+    "overall": "Pass",
+    "duplicate_samples": [],
+    "text_issues": [],
+    "date_issues": [],
+    "range_issues": [],
+    "numeric_issues": [],
+    "arithmetic": []
+  }
+]

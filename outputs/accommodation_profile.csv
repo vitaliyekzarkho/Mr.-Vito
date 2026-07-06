@@ -1,0 +1,37 @@
+homelessness_region,accommodation_type,adults,total_adults,share_of_total_adults_pct
+Dublin,Private Emergency Accommodation,6114,8349,73.23
+Dublin,Supported Temporary Accommodation,2200,8349,26.35
+Dublin,Temporary Emergency Accommodation,35,8349,0.42
+Dublin,Other Accommodation,0,8349,0.0
+Mid-East,Private Emergency Accommodation,467,636,73.43
+Mid-East,Supported Temporary Accommodation,169,636,26.57
+Mid-East,Temporary Emergency Accommodation,1,636,0.16
+Mid-East,Other Accommodation,0,636,0.0
+Mid-West,Private Emergency Accommodation,415,730,56.85
+Mid-West,Supported Temporary Accommodation,383,730,52.47
+Mid-West,Temporary Emergency Accommodation,30,730,4.11
+Mid-West,Other Accommodation,0,730,0.0
+Midlands,Private Emergency Accommodation,184,223,82.51
+Midlands,Supported Temporary Accommodation,10,223,4.48
+Midlands,Temporary Emergency Accommodation,29,223,13.0
+Midlands,Other Accommodation,1,223,0.45
+North-East,Private Emergency Accommodation,64,172,37.21
+North-East,Supported Temporary Accommodation,109,172,63.37
+North-East,Temporary Emergency Accommodation,0,172,0.0
+North-East,Other Accommodation,0,172,0.0
+North-West,Private Emergency Accommodation,112,161,69.57
+North-West,Supported Temporary Accommodation,39,161,24.22
+North-West,Temporary Emergency Accommodation,10,161,6.21
+North-West,Other Accommodation,0,161,0.0
+South-East,Private Emergency Accommodation,143,356,40.17
+South-East,Supported Temporary Accommodation,212,356,59.55
+South-East,Temporary Emergency Accommodation,2,356,0.56
+South-East,Other Accommodation,0,356,0.0
+South-West,Private Emergency Accommodation,690,897,76.92
+South-West,Supported Temporary Accommodation,213,897,23.75
+South-West,Temporary Emergency Accommodation,0,897,0.0
+South-West,Other Accommodation,0,897,0.0
+West,Private Emergency Accommodation,349,420,83.1
+West,Supported Temporary Accommodation,70,420,16.67
+West,Temporary Emergency Accommodation,0,420,0.0
+West,Other Accommodation,1,420,0.24
