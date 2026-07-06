@@ -1,0 +1,1297 @@
+year,age_group,sex,education_attainment_level,nuts2_region,unemployment_rate
+2019,All ages,Both sexes,Levels of Education (Levels 0-8),Northern and Western,4.7
+2019,All ages,Both sexes,Levels of Education (Levels 0-8),Southern,5.5
+2019,All ages,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,4.7
+2019,All ages,Both sexes,Less than primary (Level 0),Northern and Western,
+2019,All ages,Both sexes,Less than primary (Level 0),Southern,
+2019,All ages,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2019,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,6.9
+2019,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,10.0
+2019,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,8.9
+2019,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,5.5
+2019,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,6.2
+2019,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.9
+2019,All ages,Both sexes,Tertiary education (Levels 5-8),Northern and Western,3.3
+2019,All ages,Both sexes,Tertiary education (Levels 5-8),Southern,3.5
+2019,All ages,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,3.1
+2019,All ages,Both sexes,Level of education - not stated,Northern and Western,
+2019,All ages,Both sexes,Level of education - not stated,Southern,
+2019,All ages,Both sexes,Level of education - not stated,Eastern and Midland,
+2019,All ages,Male,Levels of Education (Levels 0-8),Northern and Western,5.0
+2019,All ages,Male,Levels of Education (Levels 0-8),Southern,5.8
+2019,All ages,Male,Levels of Education (Levels 0-8),Eastern and Midland,4.9
+2019,All ages,Male,Less than primary (Level 0),Northern and Western,
+2019,All ages,Male,Less than primary (Level 0),Southern,
+2019,All ages,Male,Less than primary (Level 0),Eastern and Midland,
+2019,All ages,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,7.0
+2019,All ages,Male,Primary and lower secondary education (Levels 1-2),Southern,9.9
+2019,All ages,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,8.9
+2019,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,5.4
+2019,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,5.9
+2019,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,6.2
+2019,All ages,Male,Tertiary education (Levels 5-8),Northern and Western,3.3
+2019,All ages,Male,Tertiary education (Levels 5-8),Southern,4.0
+2019,All ages,Male,Tertiary education (Levels 5-8),Eastern and Midland,2.9
+2019,All ages,Male,Level of education - not stated,Northern and Western,
+2019,All ages,Male,Level of education - not stated,Southern,
+2019,All ages,Male,Level of education - not stated,Eastern and Midland,
+2019,All ages,Female,Levels of Education (Levels 0-8),Northern and Western,4.5
+2019,All ages,Female,Levels of Education (Levels 0-8),Southern,5.2
+2019,All ages,Female,Levels of Education (Levels 0-8),Eastern and Midland,4.6
+2019,All ages,Female,Less than primary (Level 0),Northern and Western,
+2019,All ages,Female,Less than primary (Level 0),Southern,
+2019,All ages,Female,Less than primary (Level 0),Eastern and Midland,
+2019,All ages,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,6.8
+2019,All ages,Female,Primary and lower secondary education (Levels 1-2),Southern,10.2
+2019,All ages,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,8.9
+2019,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,5.6
+2019,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,6.7
+2019,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.6
+2019,All ages,Female,Tertiary education (Levels 5-8),Northern and Western,3.2
+2019,All ages,Female,Tertiary education (Levels 5-8),Southern,3.1
+2019,All ages,Female,Tertiary education (Levels 5-8),Eastern and Midland,3.3
+2019,All ages,Female,Level of education - not stated,Northern and Western,
+2019,All ages,Female,Level of education - not stated,Southern,
+2019,All ages,Female,Level of education - not stated,Eastern and Midland,
+2019,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,12.2
+2019,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Southern,13.7
+2019,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,11.8
+2019,15 - 24 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2019,15 - 24 years,Both sexes,Less than primary (Level 0),Southern,
+2019,15 - 24 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2019,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,24.1
+2019,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,26.1
+2019,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,27.7
+2019,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,10.6
+2019,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,12.8
+2019,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,10.7
+2019,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2019,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Southern,8.5
+2019,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,7.3
+2019,15 - 24 years,Both sexes,Level of education - not stated,Northern and Western,
+2019,15 - 24 years,Both sexes,Level of education - not stated,Southern,
+2019,15 - 24 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2019,15 - 24 years,Male,Levels of Education (Levels 0-8),Northern and Western,15.3
+2019,15 - 24 years,Male,Levels of Education (Levels 0-8),Southern,15.2
+2019,15 - 24 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,13.1
+2019,15 - 24 years,Male,Less than primary (Level 0),Northern and Western,
+2019,15 - 24 years,Male,Less than primary (Level 0),Southern,
+2019,15 - 24 years,Male,Less than primary (Level 0),Eastern and Midland,
+2019,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,28.6
+2019,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Southern,31.5
+2019,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,28.0
+2019,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,12.1
+2019,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,13.7
+2019,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,12.2
+2019,15 - 24 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2019,15 - 24 years,Male,Tertiary education (Levels 5-8),Southern,
+2019,15 - 24 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,8.0
+2019,15 - 24 years,Male,Level of education - not stated,Northern and Western,
+2019,15 - 24 years,Male,Level of education - not stated,Southern,
+2019,15 - 24 years,Male,Level of education - not stated,Eastern and Midland,
+2019,15 - 24 years,Female,Levels of Education (Levels 0-8),Northern and Western,8.8
+2019,15 - 24 years,Female,Levels of Education (Levels 0-8),Southern,12.1
+2019,15 - 24 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,10.3
+2019,15 - 24 years,Female,Less than primary (Level 0),Northern and Western,
+2019,15 - 24 years,Female,Less than primary (Level 0),Southern,
+2019,15 - 24 years,Female,Less than primary (Level 0),Eastern and Midland,
+2019,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2019,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Southern,20.8
+2019,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,27.4
+2019,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2019,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,11.9
+2019,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,8.9
+2019,15 - 24 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2019,15 - 24 years,Female,Tertiary education (Levels 5-8),Southern,
+2019,15 - 24 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,6.7
+2019,15 - 24 years,Female,Level of education - not stated,Northern and Western,
+2019,15 - 24 years,Female,Level of education - not stated,Southern,
+2019,15 - 24 years,Female,Level of education - not stated,Eastern and Midland,
+2019,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,3.8
+2019,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Southern,4.6
+2019,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,4.0
+2019,25 - 54 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2019,25 - 54 years,Both sexes,Less than primary (Level 0),Southern,
+2019,25 - 54 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2019,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,6.6
+2019,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,10.3
+2019,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,7.9
+2019,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,4.3
+2019,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,5.0
+2019,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.0
+2019,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,3.0
+2019,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Southern,3.3
+2019,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,2.9
+2019,25 - 54 years,Both sexes,Level of education - not stated,Northern and Western,
+2019,25 - 54 years,Both sexes,Level of education - not stated,Southern,
+2019,25 - 54 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2019,25 - 54 years,Male,Levels of Education (Levels 0-8),Northern and Western,3.8
+2019,25 - 54 years,Male,Levels of Education (Levels 0-8),Southern,4.9
+2019,25 - 54 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,4.0
+2019,25 - 54 years,Male,Less than primary (Level 0),Northern and Western,
+2019,25 - 54 years,Male,Less than primary (Level 0),Southern,
+2019,25 - 54 years,Male,Less than primary (Level 0),Eastern and Midland,
+2019,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,7.0
+2019,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Southern,10.4
+2019,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,8.7
+2019,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,3.9
+2019,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,4.5
+2019,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,4.9
+2019,25 - 54 years,Male,Tertiary education (Levels 5-8),Northern and Western,2.8
+2019,25 - 54 years,Male,Tertiary education (Levels 5-8),Southern,3.7
+2019,25 - 54 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,2.6
+2019,25 - 54 years,Male,Level of education - not stated,Northern and Western,
+2019,25 - 54 years,Male,Level of education - not stated,Southern,
+2019,25 - 54 years,Male,Level of education - not stated,Eastern and Midland,
+2019,25 - 54 years,Female,Levels of Education (Levels 0-8),Northern and Western,3.9
+2019,25 - 54 years,Female,Levels of Education (Levels 0-8),Southern,4.3
+2019,25 - 54 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,3.9
+2019,25 - 54 years,Female,Less than primary (Level 0),Northern and Western,
+2019,25 - 54 years,Female,Less than primary (Level 0),Southern,
+2019,25 - 54 years,Female,Less than primary (Level 0),Eastern and Midland,
+2019,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2019,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Southern,10.0
+2019,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,6.2
+2019,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,4.8
+2019,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,5.8
+2019,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.2
+2019,25 - 54 years,Female,Tertiary education (Levels 5-8),Northern and Western,3.2
+2019,25 - 54 years,Female,Tertiary education (Levels 5-8),Southern,2.9
+2019,25 - 54 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,3.2
+2019,25 - 54 years,Female,Level of education - not stated,Northern and Western,
+2019,25 - 54 years,Female,Level of education - not stated,Southern,
+2019,25 - 54 years,Female,Level of education - not stated,Eastern and Midland,
+2019,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,3.3
+2019,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Southern,3.6
+2019,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,2.9
+2019,55 - 74 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2019,55 - 74 years,Both sexes,Less than primary (Level 0),Southern,
+2019,55 - 74 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2019,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2019,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,4.5
+2019,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,3.6
+2019,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,4.8
+2019,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,3.4
+2019,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,3.5
+2019,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2019,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Southern,3.0
+2019,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,2.1
+2019,55 - 74 years,Both sexes,Level of education - not stated,Northern and Western,
+2019,55 - 74 years,Both sexes,Level of education - not stated,Southern,
+2019,55 - 74 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2019,55 - 74 years,Male,Levels of Education (Levels 0-8),Northern and Western,2.9
+2019,55 - 74 years,Male,Levels of Education (Levels 0-8),Southern,3.6
+2019,55 - 74 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,3.1
+2019,55 - 74 years,Male,Less than primary (Level 0),Northern and Western,
+2019,55 - 74 years,Male,Less than primary (Level 0),Southern,
+2019,55 - 74 years,Male,Less than primary (Level 0),Eastern and Midland,
+2019,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2019,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Southern,4.4
+2019,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,3.3
+2019,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2019,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2019,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,4.0
+2019,55 - 74 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2019,55 - 74 years,Male,Tertiary education (Levels 5-8),Southern,
+2019,55 - 74 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,
+2019,55 - 74 years,Male,Level of education - not stated,Northern and Western,
+2019,55 - 74 years,Male,Level of education - not stated,Southern,
+2019,55 - 74 years,Male,Level of education - not stated,Eastern and Midland,
+2019,55 - 74 years,Female,Levels of Education (Levels 0-8),Northern and Western,4.0
+2019,55 - 74 years,Female,Levels of Education (Levels 0-8),Southern,3.5
+2019,55 - 74 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,2.8
+2019,55 - 74 years,Female,Less than primary (Level 0),Northern and Western,
+2019,55 - 74 years,Female,Less than primary (Level 0),Southern,
+2019,55 - 74 years,Female,Less than primary (Level 0),Eastern and Midland,
+2019,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2019,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2019,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2019,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,5.2
+2019,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2019,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,3.1
+2019,55 - 74 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2019,55 - 74 years,Female,Tertiary education (Levels 5-8),Southern,
+2019,55 - 74 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,
+2019,55 - 74 years,Female,Level of education - not stated,Northern and Western,
+2019,55 - 74 years,Female,Level of education - not stated,Southern,
+2019,55 - 74 years,Female,Level of education - not stated,Eastern and Midland,
+2020,All ages,Both sexes,Levels of Education (Levels 0-8),Northern and Western,5.2
+2020,All ages,Both sexes,Levels of Education (Levels 0-8),Southern,6.0
+2020,All ages,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,6.0
+2020,All ages,Both sexes,Less than primary (Level 0),Northern and Western,
+2020,All ages,Both sexes,Less than primary (Level 0),Southern,
+2020,All ages,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2020,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,6.2
+2020,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,9.1
+2020,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,9.1
+2020,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,6.3
+2020,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,7.5
+2020,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,7.4
+2020,All ages,Both sexes,Tertiary education (Levels 5-8),Northern and Western,4.1
+2020,All ages,Both sexes,Tertiary education (Levels 5-8),Southern,3.8
+2020,All ages,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,4.6
+2020,All ages,Both sexes,Level of education - not stated,Northern and Western,
+2020,All ages,Both sexes,Level of education - not stated,Southern,
+2020,All ages,Both sexes,Level of education - not stated,Eastern and Midland,6.6
+2020,All ages,Male,Levels of Education (Levels 0-8),Northern and Western,5.2
+2020,All ages,Male,Levels of Education (Levels 0-8),Southern,6.3
+2020,All ages,Male,Levels of Education (Levels 0-8),Eastern and Midland,5.7
+2020,All ages,Male,Less than primary (Level 0),Northern and Western,
+2020,All ages,Male,Less than primary (Level 0),Southern,
+2020,All ages,Male,Less than primary (Level 0),Eastern and Midland,
+2020,All ages,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,5.1
+2020,All ages,Male,Primary and lower secondary education (Levels 1-2),Southern,9.4
+2020,All ages,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,9.0
+2020,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,5.8
+2020,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,7.4
+2020,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,6.9
+2020,All ages,Male,Tertiary education (Levels 5-8),Northern and Western,4.8
+2020,All ages,Male,Tertiary education (Levels 5-8),Southern,3.7
+2020,All ages,Male,Tertiary education (Levels 5-8),Eastern and Midland,4.2
+2020,All ages,Male,Level of education - not stated,Northern and Western,
+2020,All ages,Male,Level of education - not stated,Southern,
+2020,All ages,Male,Level of education - not stated,Eastern and Midland,
+2020,All ages,Female,Levels of Education (Levels 0-8),Northern and Western,5.1
+2020,All ages,Female,Levels of Education (Levels 0-8),Southern,5.6
+2020,All ages,Female,Levels of Education (Levels 0-8),Eastern and Midland,6.3
+2020,All ages,Female,Less than primary (Level 0),Northern and Western,
+2020,All ages,Female,Less than primary (Level 0),Southern,
+2020,All ages,Female,Less than primary (Level 0),Eastern and Midland,
+2020,All ages,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2020,All ages,Female,Primary and lower secondary education (Levels 1-2),Southern,8.4
+2020,All ages,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,9.4
+2020,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,6.9
+2020,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,7.6
+2020,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,8.2
+2020,All ages,Female,Tertiary education (Levels 5-8),Northern and Western,3.5
+2020,All ages,Female,Tertiary education (Levels 5-8),Southern,3.9
+2020,All ages,Female,Tertiary education (Levels 5-8),Eastern and Midland,4.9
+2020,All ages,Female,Level of education - not stated,Northern and Western,
+2020,All ages,Female,Level of education - not stated,Southern,
+2020,All ages,Female,Level of education - not stated,Eastern and Midland,
+2020,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,16.9
+2020,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Southern,15.0
+2020,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,16.0
+2020,15 - 24 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2020,15 - 24 years,Both sexes,Less than primary (Level 0),Southern,
+2020,15 - 24 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2020,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,24.0
+2020,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,22.2
+2020,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,28.6
+2020,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,14.8
+2020,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,15.2
+2020,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,15.3
+2020,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,16.9
+2020,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Southern,10.2
+2020,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,12.6
+2020,15 - 24 years,Both sexes,Level of education - not stated,Northern and Western,
+2020,15 - 24 years,Both sexes,Level of education - not stated,Southern,
+2020,15 - 24 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2020,15 - 24 years,Male,Levels of Education (Levels 0-8),Northern and Western,16.6
+2020,15 - 24 years,Male,Levels of Education (Levels 0-8),Southern,17.4
+2020,15 - 24 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,14.6
+2020,15 - 24 years,Male,Less than primary (Level 0),Northern and Western,
+2020,15 - 24 years,Male,Less than primary (Level 0),Southern,
+2020,15 - 24 years,Male,Less than primary (Level 0),Eastern and Midland,
+2020,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2020,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Southern,27.3
+2020,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,28.3
+2020,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,14.8
+2020,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,17.6
+2020,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,13.2
+2020,15 - 24 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2020,15 - 24 years,Male,Tertiary education (Levels 5-8),Southern,
+2020,15 - 24 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,11.4
+2020,15 - 24 years,Male,Level of education - not stated,Northern and Western,
+2020,15 - 24 years,Male,Level of education - not stated,Southern,
+2020,15 - 24 years,Male,Level of education - not stated,Eastern and Midland,
+2020,15 - 24 years,Female,Levels of Education (Levels 0-8),Northern and Western,17.2
+2020,15 - 24 years,Female,Levels of Education (Levels 0-8),Southern,12.5
+2020,15 - 24 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,17.6
+2020,15 - 24 years,Female,Less than primary (Level 0),Northern and Western,
+2020,15 - 24 years,Female,Less than primary (Level 0),Southern,
+2020,15 - 24 years,Female,Less than primary (Level 0),Eastern and Midland,
+2020,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2020,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2020,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,28.9
+2020,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,14.7
+2020,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,12.6
+2020,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,17.9
+2020,15 - 24 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2020,15 - 24 years,Female,Tertiary education (Levels 5-8),Southern,
+2020,15 - 24 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,13.5
+2020,15 - 24 years,Female,Level of education - not stated,Northern and Western,
+2020,15 - 24 years,Female,Level of education - not stated,Southern,
+2020,15 - 24 years,Female,Level of education - not stated,Eastern and Midland,
+2020,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,4.0
+2020,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Southern,5.0
+2020,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,4.9
+2020,25 - 54 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2020,25 - 54 years,Both sexes,Less than primary (Level 0),Southern,
+2020,25 - 54 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2020,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2020,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,8.1
+2020,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,8.2
+2020,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,4.7
+2020,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,6.5
+2020,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.7
+2020,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,3.3
+2020,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Southern,3.4
+2020,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,4.2
+2020,25 - 54 years,Both sexes,Level of education - not stated,Northern and Western,
+2020,25 - 54 years,Both sexes,Level of education - not stated,Southern,
+2020,25 - 54 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2020,25 - 54 years,Male,Levels of Education (Levels 0-8),Northern and Western,4.2
+2020,25 - 54 years,Male,Levels of Education (Levels 0-8),Southern,5.1
+2020,25 - 54 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,4.8
+2020,25 - 54 years,Male,Less than primary (Level 0),Northern and Western,
+2020,25 - 54 years,Male,Less than primary (Level 0),Southern,
+2020,25 - 54 years,Male,Less than primary (Level 0),Eastern and Midland,
+2020,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2020,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Southern,8.0
+2020,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,8.8
+2020,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,4.3
+2020,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,5.9
+2020,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.4
+2020,25 - 54 years,Male,Tertiary education (Levels 5-8),Northern and Western,3.9
+2020,25 - 54 years,Male,Tertiary education (Levels 5-8),Southern,3.5
+2020,25 - 54 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,3.9
+2020,25 - 54 years,Male,Level of education - not stated,Northern and Western,
+2020,25 - 54 years,Male,Level of education - not stated,Southern,
+2020,25 - 54 years,Male,Level of education - not stated,Eastern and Midland,
+2020,25 - 54 years,Female,Levels of Education (Levels 0-8),Northern and Western,3.7
+2020,25 - 54 years,Female,Levels of Education (Levels 0-8),Southern,4.9
+2020,25 - 54 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,5.0
+2020,25 - 54 years,Female,Less than primary (Level 0),Northern and Western,
+2020,25 - 54 years,Female,Less than primary (Level 0),Southern,
+2020,25 - 54 years,Female,Less than primary (Level 0),Eastern and Midland,
+2020,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2020,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2020,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2020,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,5.3
+2020,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,7.4
+2020,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,6.1
+2020,25 - 54 years,Female,Tertiary education (Levels 5-8),Northern and Western,2.8
+2020,25 - 54 years,Female,Tertiary education (Levels 5-8),Southern,3.4
+2020,25 - 54 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,4.4
+2020,25 - 54 years,Female,Level of education - not stated,Northern and Western,
+2020,25 - 54 years,Female,Level of education - not stated,Southern,
+2020,25 - 54 years,Female,Level of education - not stated,Eastern and Midland,
+2020,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,3.2
+2020,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Southern,4.1
+2020,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,3.9
+2020,55 - 74 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2020,55 - 74 years,Both sexes,Less than primary (Level 0),Southern,
+2020,55 - 74 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2020,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2020,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,5.8
+2020,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,4.0
+2020,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,4.2
+2020,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,3.3
+2020,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,4.3
+2020,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2020,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Southern,3.6
+2020,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,3.5
+2020,55 - 74 years,Both sexes,Level of education - not stated,Northern and Western,
+2020,55 - 74 years,Both sexes,Level of education - not stated,Southern,
+2020,55 - 74 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2020,55 - 74 years,Male,Levels of Education (Levels 0-8),Northern and Western,2.9
+2020,55 - 74 years,Male,Levels of Education (Levels 0-8),Southern,4.6
+2020,55 - 74 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,3.9
+2020,55 - 74 years,Male,Less than primary (Level 0),Northern and Western,
+2020,55 - 74 years,Male,Less than primary (Level 0),Southern,
+2020,55 - 74 years,Male,Less than primary (Level 0),Eastern and Midland,
+2020,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2020,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Southern,6.5
+2020,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,4.2
+2020,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2020,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,3.8
+2020,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,4.6
+2020,55 - 74 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2020,55 - 74 years,Male,Tertiary education (Levels 5-8),Southern,
+2020,55 - 74 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,3.3
+2020,55 - 74 years,Male,Level of education - not stated,Northern and Western,
+2020,55 - 74 years,Male,Level of education - not stated,Southern,
+2020,55 - 74 years,Male,Level of education - not stated,Eastern and Midland,
+2020,55 - 74 years,Female,Levels of Education (Levels 0-8),Northern and Western,3.6
+2020,55 - 74 years,Female,Levels of Education (Levels 0-8),Southern,3.3
+2020,55 - 74 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,3.9
+2020,55 - 74 years,Female,Less than primary (Level 0),Northern and Western,
+2020,55 - 74 years,Female,Less than primary (Level 0),Southern,
+2020,55 - 74 years,Female,Less than primary (Level 0),Eastern and Midland,
+2020,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2020,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2020,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2020,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2020,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2020,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,4.0
+2020,55 - 74 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2020,55 - 74 years,Female,Tertiary education (Levels 5-8),Southern,
+2020,55 - 74 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,3.7
+2020,55 - 74 years,Female,Level of education - not stated,Northern and Western,
+2020,55 - 74 years,Female,Level of education - not stated,Southern,
+2020,55 - 74 years,Female,Level of education - not stated,Eastern and Midland,
+2021,All ages,Both sexes,Levels of Education (Levels 0-8),Northern and Western,4.8
+2021,All ages,Both sexes,Levels of Education (Levels 0-8),Southern,6.8
+2021,All ages,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,6.7
+2021,All ages,Both sexes,Less than primary (Level 0),Northern and Western,
+2021,All ages,Both sexes,Less than primary (Level 0),Southern,
+2021,All ages,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2021,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2021,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,11.7
+2021,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,12.1
+2021,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,6.2
+2021,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,8.5
+2021,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,8.6
+2021,All ages,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2021,All ages,Both sexes,Tertiary education (Levels 5-8),Southern,4.1
+2021,All ages,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,4.5
+2021,All ages,Both sexes,Level of education - not stated,Northern and Western,
+2021,All ages,Both sexes,Level of education - not stated,Southern,
+2021,All ages,Both sexes,Level of education - not stated,Eastern and Midland,
+2021,All ages,Male,Levels of Education (Levels 0-8),Northern and Western,4.3
+2021,All ages,Male,Levels of Education (Levels 0-8),Southern,7.4
+2021,All ages,Male,Levels of Education (Levels 0-8),Eastern and Midland,6.5
+2021,All ages,Male,Less than primary (Level 0),Northern and Western,
+2021,All ages,Male,Less than primary (Level 0),Southern,
+2021,All ages,Male,Less than primary (Level 0),Eastern and Midland,
+2021,All ages,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2021,All ages,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2021,All ages,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,10.1
+2021,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2021,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,8.6
+2021,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,7.4
+2021,All ages,Male,Tertiary education (Levels 5-8),Northern and Western,
+2021,All ages,Male,Tertiary education (Levels 5-8),Southern,4.6
+2021,All ages,Male,Tertiary education (Levels 5-8),Eastern and Midland,4.9
+2021,All ages,Male,Level of education - not stated,Northern and Western,
+2021,All ages,Male,Level of education - not stated,Southern,
+2021,All ages,Male,Level of education - not stated,Eastern and Midland,
+2021,All ages,Female,Levels of Education (Levels 0-8),Northern and Western,5.4
+2021,All ages,Female,Levels of Education (Levels 0-8),Southern,6.1
+2021,All ages,Female,Levels of Education (Levels 0-8),Eastern and Midland,6.9
+2021,All ages,Female,Less than primary (Level 0),Northern and Western,
+2021,All ages,Female,Less than primary (Level 0),Southern,
+2021,All ages,Female,Less than primary (Level 0),Eastern and Midland,
+2021,All ages,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2021,All ages,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2021,All ages,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2021,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2021,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,8.4
+2021,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,10.2
+2021,All ages,Female,Tertiary education (Levels 5-8),Northern and Western,
+2021,All ages,Female,Tertiary education (Levels 5-8),Southern,3.5
+2021,All ages,Female,Tertiary education (Levels 5-8),Eastern and Midland,4.0
+2021,All ages,Female,Level of education - not stated,Northern and Western,
+2021,All ages,Female,Level of education - not stated,Southern,
+2021,All ages,Female,Level of education - not stated,Eastern and Midland,
+2021,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,
+2021,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Southern,16.9
+2021,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,16.2
+2021,15 - 24 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2021,15 - 24 years,Both sexes,Less than primary (Level 0),Southern,
+2021,15 - 24 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2021,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2021,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,
+2021,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2021,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2021,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,16.4
+2021,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,14.2
+2021,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2021,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Southern,
+2021,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,
+2021,15 - 24 years,Both sexes,Level of education - not stated,Northern and Western,
+2021,15 - 24 years,Both sexes,Level of education - not stated,Southern,
+2021,15 - 24 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2021,15 - 24 years,Male,Levels of Education (Levels 0-8),Northern and Western,
+2021,15 - 24 years,Male,Levels of Education (Levels 0-8),Southern,17.0
+2021,15 - 24 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,14.6
+2021,15 - 24 years,Male,Less than primary (Level 0),Northern and Western,
+2021,15 - 24 years,Male,Less than primary (Level 0),Southern,
+2021,15 - 24 years,Male,Less than primary (Level 0),Eastern and Midland,
+2021,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2021,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2021,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2021,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2021,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2021,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2021,15 - 24 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2021,15 - 24 years,Male,Tertiary education (Levels 5-8),Southern,
+2021,15 - 24 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,
+2021,15 - 24 years,Male,Level of education - not stated,Northern and Western,
+2021,15 - 24 years,Male,Level of education - not stated,Southern,
+2021,15 - 24 years,Male,Level of education - not stated,Eastern and Midland,
+2021,15 - 24 years,Female,Levels of Education (Levels 0-8),Northern and Western,
+2021,15 - 24 years,Female,Levels of Education (Levels 0-8),Southern,16.8
+2021,15 - 24 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,17.8
+2021,15 - 24 years,Female,Less than primary (Level 0),Northern and Western,
+2021,15 - 24 years,Female,Less than primary (Level 0),Southern,
+2021,15 - 24 years,Female,Less than primary (Level 0),Eastern and Midland,
+2021,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2021,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2021,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2021,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2021,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2021,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2021,15 - 24 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2021,15 - 24 years,Female,Tertiary education (Levels 5-8),Southern,
+2021,15 - 24 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,
+2021,15 - 24 years,Female,Level of education - not stated,Northern and Western,
+2021,15 - 24 years,Female,Level of education - not stated,Southern,
+2021,15 - 24 years,Female,Level of education - not stated,Eastern and Midland,
+2021,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,4.1
+2021,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Southern,5.2
+2021,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,5.3
+2021,25 - 54 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2021,25 - 54 years,Both sexes,Less than primary (Level 0),Southern,
+2021,25 - 54 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2021,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2021,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,
+2021,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2021,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2021,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,6.3
+2021,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,7.6
+2021,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2021,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Southern,3.6
+2021,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,3.9
+2021,25 - 54 years,Both sexes,Level of education - not stated,Northern and Western,
+2021,25 - 54 years,Both sexes,Level of education - not stated,Southern,
+2021,25 - 54 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2021,25 - 54 years,Male,Levels of Education (Levels 0-8),Northern and Western,
+2021,25 - 54 years,Male,Levels of Education (Levels 0-8),Southern,6.1
+2021,25 - 54 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,5.4
+2021,25 - 54 years,Male,Less than primary (Level 0),Northern and Western,
+2021,25 - 54 years,Male,Less than primary (Level 0),Southern,
+2021,25 - 54 years,Male,Less than primary (Level 0),Eastern and Midland,
+2021,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2021,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2021,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2021,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2021,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2021,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2021,25 - 54 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2021,25 - 54 years,Male,Tertiary education (Levels 5-8),Southern,
+2021,25 - 54 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,4.7
+2021,25 - 54 years,Male,Level of education - not stated,Northern and Western,
+2021,25 - 54 years,Male,Level of education - not stated,Southern,
+2021,25 - 54 years,Male,Level of education - not stated,Eastern and Midland,
+2021,25 - 54 years,Female,Levels of Education (Levels 0-8),Northern and Western,
+2021,25 - 54 years,Female,Levels of Education (Levels 0-8),Southern,4.2
+2021,25 - 54 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,5.1
+2021,25 - 54 years,Female,Less than primary (Level 0),Northern and Western,
+2021,25 - 54 years,Female,Less than primary (Level 0),Southern,
+2021,25 - 54 years,Female,Less than primary (Level 0),Eastern and Midland,
+2021,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2021,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2021,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2021,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2021,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2021,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,8.9
+2021,25 - 54 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2021,25 - 54 years,Female,Tertiary education (Levels 5-8),Southern,
+2021,25 - 54 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,3.1
+2021,25 - 54 years,Female,Level of education - not stated,Northern and Western,
+2021,25 - 54 years,Female,Level of education - not stated,Southern,
+2021,25 - 54 years,Female,Level of education - not stated,Eastern and Midland,
+2021,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,
+2021,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Southern,5.6
+2021,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,5.6
+2021,55 - 74 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2021,55 - 74 years,Both sexes,Less than primary (Level 0),Southern,
+2021,55 - 74 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2021,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2021,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,
+2021,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2021,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2021,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2021,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2021,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2021,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Southern,
+2021,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,
+2021,55 - 74 years,Both sexes,Level of education - not stated,Northern and Western,
+2021,55 - 74 years,Both sexes,Level of education - not stated,Southern,
+2021,55 - 74 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2021,55 - 74 years,Male,Levels of Education (Levels 0-8),Northern and Western,
+2021,55 - 74 years,Male,Levels of Education (Levels 0-8),Southern,
+2021,55 - 74 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,5.5
+2021,55 - 74 years,Male,Less than primary (Level 0),Northern and Western,
+2021,55 - 74 years,Male,Less than primary (Level 0),Southern,
+2021,55 - 74 years,Male,Less than primary (Level 0),Eastern and Midland,
+2021,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2021,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2021,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2021,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2021,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2021,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2021,55 - 74 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2021,55 - 74 years,Male,Tertiary education (Levels 5-8),Southern,
+2021,55 - 74 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,
+2021,55 - 74 years,Male,Level of education - not stated,Northern and Western,
+2021,55 - 74 years,Male,Level of education - not stated,Southern,
+2021,55 - 74 years,Male,Level of education - not stated,Eastern and Midland,
+2021,55 - 74 years,Female,Levels of Education (Levels 0-8),Northern and Western,
+2021,55 - 74 years,Female,Levels of Education (Levels 0-8),Southern,
+2021,55 - 74 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,
+2021,55 - 74 years,Female,Less than primary (Level 0),Northern and Western,
+2021,55 - 74 years,Female,Less than primary (Level 0),Southern,
+2021,55 - 74 years,Female,Less than primary (Level 0),Eastern and Midland,
+2021,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2021,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2021,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2021,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2021,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2021,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2021,55 - 74 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2021,55 - 74 years,Female,Tertiary education (Levels 5-8),Southern,
+2021,55 - 74 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,
+2021,55 - 74 years,Female,Level of education - not stated,Northern and Western,
+2021,55 - 74 years,Female,Level of education - not stated,Southern,
+2021,55 - 74 years,Female,Level of education - not stated,Eastern and Midland,
+2022,All ages,Both sexes,Levels of Education (Levels 0-8),Northern and Western,3.6
+2022,All ages,Both sexes,Levels of Education (Levels 0-8),Southern,4.2
+2022,All ages,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,4.9
+2022,All ages,Both sexes,Less than primary (Level 0),Northern and Western,
+2022,All ages,Both sexes,Less than primary (Level 0),Southern,
+2022,All ages,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2022,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2022,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,8.0
+2022,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,10.5
+2022,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2022,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,5.4
+2022,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.3
+2022,All ages,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2022,All ages,Both sexes,Tertiary education (Levels 5-8),Southern,2.6
+2022,All ages,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,3.7
+2022,All ages,Both sexes,Level of education - not stated,Northern and Western,
+2022,All ages,Both sexes,Level of education - not stated,Southern,
+2022,All ages,Both sexes,Level of education - not stated,Eastern and Midland,
+2022,All ages,Male,Levels of Education (Levels 0-8),Northern and Western,
+2022,All ages,Male,Levels of Education (Levels 0-8),Southern,4.7
+2022,All ages,Male,Levels of Education (Levels 0-8),Eastern and Midland,4.6
+2022,All ages,Male,Less than primary (Level 0),Northern and Western,
+2022,All ages,Male,Less than primary (Level 0),Southern,
+2022,All ages,Male,Less than primary (Level 0),Eastern and Midland,
+2022,All ages,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2022,All ages,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2022,All ages,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2022,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2022,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,5.7
+2022,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.4
+2022,All ages,Male,Tertiary education (Levels 5-8),Northern and Western,
+2022,All ages,Male,Tertiary education (Levels 5-8),Southern,
+2022,All ages,Male,Tertiary education (Levels 5-8),Eastern and Midland,3.0
+2022,All ages,Male,Level of education - not stated,Northern and Western,
+2022,All ages,Male,Level of education - not stated,Southern,
+2022,All ages,Male,Level of education - not stated,Eastern and Midland,
+2022,All ages,Female,Levels of Education (Levels 0-8),Northern and Western,4.2
+2022,All ages,Female,Levels of Education (Levels 0-8),Southern,3.8
+2022,All ages,Female,Levels of Education (Levels 0-8),Eastern and Midland,5.4
+2022,All ages,Female,Less than primary (Level 0),Northern and Western,
+2022,All ages,Female,Less than primary (Level 0),Southern,
+2022,All ages,Female,Less than primary (Level 0),Eastern and Midland,
+2022,All ages,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2022,All ages,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2022,All ages,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2022,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2022,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2022,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.3
+2022,All ages,Female,Tertiary education (Levels 5-8),Northern and Western,
+2022,All ages,Female,Tertiary education (Levels 5-8),Southern,
+2022,All ages,Female,Tertiary education (Levels 5-8),Eastern and Midland,4.5
+2022,All ages,Female,Level of education - not stated,Northern and Western,
+2022,All ages,Female,Level of education - not stated,Southern,
+2022,All ages,Female,Level of education - not stated,Eastern and Midland,
+2022,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,
+2022,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Southern,10.0
+2022,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,9.8
+2022,15 - 24 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2022,15 - 24 years,Both sexes,Less than primary (Level 0),Southern,
+2022,15 - 24 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2022,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2022,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,
+2022,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2022,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2022,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2022,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2022,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2022,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Southern,
+2022,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,
+2022,15 - 24 years,Both sexes,Level of education - not stated,Northern and Western,
+2022,15 - 24 years,Both sexes,Level of education - not stated,Southern,
+2022,15 - 24 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2022,15 - 24 years,Male,Levels of Education (Levels 0-8),Northern and Western,
+2022,15 - 24 years,Male,Levels of Education (Levels 0-8),Southern,
+2022,15 - 24 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,
+2022,15 - 24 years,Male,Less than primary (Level 0),Northern and Western,
+2022,15 - 24 years,Male,Less than primary (Level 0),Southern,
+2022,15 - 24 years,Male,Less than primary (Level 0),Eastern and Midland,
+2022,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2022,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2022,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2022,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2022,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2022,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2022,15 - 24 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2022,15 - 24 years,Male,Tertiary education (Levels 5-8),Southern,
+2022,15 - 24 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,
+2022,15 - 24 years,Male,Level of education - not stated,Northern and Western,
+2022,15 - 24 years,Male,Level of education - not stated,Southern,
+2022,15 - 24 years,Male,Level of education - not stated,Eastern and Midland,
+2022,15 - 24 years,Female,Levels of Education (Levels 0-8),Northern and Western,
+2022,15 - 24 years,Female,Levels of Education (Levels 0-8),Southern,
+2022,15 - 24 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,
+2022,15 - 24 years,Female,Less than primary (Level 0),Northern and Western,
+2022,15 - 24 years,Female,Less than primary (Level 0),Southern,
+2022,15 - 24 years,Female,Less than primary (Level 0),Eastern and Midland,
+2022,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2022,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2022,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2022,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2022,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2022,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2022,15 - 24 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2022,15 - 24 years,Female,Tertiary education (Levels 5-8),Southern,
+2022,15 - 24 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,
+2022,15 - 24 years,Female,Level of education - not stated,Northern and Western,
+2022,15 - 24 years,Female,Level of education - not stated,Southern,
+2022,15 - 24 years,Female,Level of education - not stated,Eastern and Midland,
+2022,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,2.8
+2022,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Southern,3.4
+2022,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,4.4
+2022,25 - 54 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2022,25 - 54 years,Both sexes,Less than primary (Level 0),Southern,
+2022,25 - 54 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2022,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2022,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,
+2022,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2022,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2022,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,4.7
+2022,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.1
+2022,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2022,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Southern,
+2022,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,3.6
+2022,25 - 54 years,Both sexes,Level of education - not stated,Northern and Western,
+2022,25 - 54 years,Both sexes,Level of education - not stated,Southern,
+2022,25 - 54 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2022,25 - 54 years,Male,Levels of Education (Levels 0-8),Northern and Western,
+2022,25 - 54 years,Male,Levels of Education (Levels 0-8),Southern,3.7
+2022,25 - 54 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,4.1
+2022,25 - 54 years,Male,Less than primary (Level 0),Northern and Western,
+2022,25 - 54 years,Male,Less than primary (Level 0),Southern,
+2022,25 - 54 years,Male,Less than primary (Level 0),Eastern and Midland,
+2022,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2022,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2022,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2022,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2022,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2022,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2022,25 - 54 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2022,25 - 54 years,Male,Tertiary education (Levels 5-8),Southern,
+2022,25 - 54 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,
+2022,25 - 54 years,Male,Level of education - not stated,Northern and Western,
+2022,25 - 54 years,Male,Level of education - not stated,Southern,
+2022,25 - 54 years,Male,Level of education - not stated,Eastern and Midland,
+2022,25 - 54 years,Female,Levels of Education (Levels 0-8),Northern and Western,
+2022,25 - 54 years,Female,Levels of Education (Levels 0-8),Southern,3.0
+2022,25 - 54 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,4.7
+2022,25 - 54 years,Female,Less than primary (Level 0),Northern and Western,
+2022,25 - 54 years,Female,Less than primary (Level 0),Southern,
+2022,25 - 54 years,Female,Less than primary (Level 0),Eastern and Midland,
+2022,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2022,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2022,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2022,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2022,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2022,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2022,25 - 54 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2022,25 - 54 years,Female,Tertiary education (Levels 5-8),Southern,
+2022,25 - 54 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,4.2
+2022,25 - 54 years,Female,Level of education - not stated,Northern and Western,
+2022,25 - 54 years,Female,Level of education - not stated,Southern,
+2022,25 - 54 years,Female,Level of education - not stated,Eastern and Midland,
+2022,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,
+2022,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Southern,
+2022,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,3.7
+2022,55 - 74 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2022,55 - 74 years,Both sexes,Less than primary (Level 0),Southern,
+2022,55 - 74 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2022,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2022,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,
+2022,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2022,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2022,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2022,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2022,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2022,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Southern,
+2022,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,
+2022,55 - 74 years,Both sexes,Level of education - not stated,Northern and Western,
+2022,55 - 74 years,Both sexes,Level of education - not stated,Southern,
+2022,55 - 74 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2022,55 - 74 years,Male,Levels of Education (Levels 0-8),Northern and Western,
+2022,55 - 74 years,Male,Levels of Education (Levels 0-8),Southern,
+2022,55 - 74 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,
+2022,55 - 74 years,Male,Less than primary (Level 0),Northern and Western,
+2022,55 - 74 years,Male,Less than primary (Level 0),Southern,
+2022,55 - 74 years,Male,Less than primary (Level 0),Eastern and Midland,
+2022,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2022,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2022,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2022,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2022,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2022,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2022,55 - 74 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2022,55 - 74 years,Male,Tertiary education (Levels 5-8),Southern,
+2022,55 - 74 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,
+2022,55 - 74 years,Male,Level of education - not stated,Northern and Western,
+2022,55 - 74 years,Male,Level of education - not stated,Southern,
+2022,55 - 74 years,Male,Level of education - not stated,Eastern and Midland,
+2022,55 - 74 years,Female,Levels of Education (Levels 0-8),Northern and Western,
+2022,55 - 74 years,Female,Levels of Education (Levels 0-8),Southern,
+2022,55 - 74 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,
+2022,55 - 74 years,Female,Less than primary (Level 0),Northern and Western,
+2022,55 - 74 years,Female,Less than primary (Level 0),Southern,
+2022,55 - 74 years,Female,Less than primary (Level 0),Eastern and Midland,
+2022,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2022,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2022,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2022,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2022,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2022,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2022,55 - 74 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2022,55 - 74 years,Female,Tertiary education (Levels 5-8),Southern,
+2022,55 - 74 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,
+2022,55 - 74 years,Female,Level of education - not stated,Northern and Western,
+2022,55 - 74 years,Female,Level of education - not stated,Southern,
+2022,55 - 74 years,Female,Level of education - not stated,Eastern and Midland,
+2023,All ages,Both sexes,Levels of Education (Levels 0-8),Northern and Western,3.7
+2023,All ages,Both sexes,Levels of Education (Levels 0-8),Southern,4.6
+2023,All ages,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,4.2
+2023,All ages,Both sexes,Less than primary (Level 0),Northern and Western,
+2023,All ages,Both sexes,Less than primary (Level 0),Southern,
+2023,All ages,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2023,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2023,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,7.2
+2023,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,10.9
+2023,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,4.6
+2023,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,6.0
+2023,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.5
+2023,All ages,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2023,All ages,Both sexes,Tertiary education (Levels 5-8),Southern,3.1
+2023,All ages,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,2.5
+2023,All ages,Both sexes,Level of education - not stated,Northern and Western,
+2023,All ages,Both sexes,Level of education - not stated,Southern,
+2023,All ages,Both sexes,Level of education - not stated,Eastern and Midland,
+2023,All ages,Male,Levels of Education (Levels 0-8),Northern and Western,
+2023,All ages,Male,Levels of Education (Levels 0-8),Southern,5.1
+2023,All ages,Male,Levels of Education (Levels 0-8),Eastern and Midland,4.3
+2023,All ages,Male,Less than primary (Level 0),Northern and Western,
+2023,All ages,Male,Less than primary (Level 0),Southern,
+2023,All ages,Male,Less than primary (Level 0),Eastern and Midland,
+2023,All ages,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2023,All ages,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2023,All ages,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2023,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2023,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,6.8
+2023,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.3
+2023,All ages,Male,Tertiary education (Levels 5-8),Northern and Western,
+2023,All ages,Male,Tertiary education (Levels 5-8),Southern,
+2023,All ages,Male,Tertiary education (Levels 5-8),Eastern and Midland,2.5
+2023,All ages,Male,Level of education - not stated,Northern and Western,
+2023,All ages,Male,Level of education - not stated,Southern,
+2023,All ages,Male,Level of education - not stated,Eastern and Midland,
+2023,All ages,Female,Levels of Education (Levels 0-8),Northern and Western,4.7
+2023,All ages,Female,Levels of Education (Levels 0-8),Southern,4.1
+2023,All ages,Female,Levels of Education (Levels 0-8),Eastern and Midland,4.1
+2023,All ages,Female,Less than primary (Level 0),Northern and Western,
+2023,All ages,Female,Less than primary (Level 0),Southern,
+2023,All ages,Female,Less than primary (Level 0),Eastern and Midland,
+2023,All ages,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2023,All ages,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2023,All ages,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2023,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2023,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2023,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.8
+2023,All ages,Female,Tertiary education (Levels 5-8),Northern and Western,
+2023,All ages,Female,Tertiary education (Levels 5-8),Southern,
+2023,All ages,Female,Tertiary education (Levels 5-8),Eastern and Midland,2.6
+2023,All ages,Female,Level of education - not stated,Northern and Western,
+2023,All ages,Female,Level of education - not stated,Southern,
+2023,All ages,Female,Level of education - not stated,Eastern and Midland,
+2023,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,
+2023,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Southern,10.7
+2023,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,10.7
+2023,15 - 24 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2023,15 - 24 years,Both sexes,Less than primary (Level 0),Southern,
+2023,15 - 24 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2023,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2023,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,
+2023,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2023,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2023,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2023,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,9.0
+2023,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2023,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Southern,
+2023,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,
+2023,15 - 24 years,Both sexes,Level of education - not stated,Northern and Western,
+2023,15 - 24 years,Both sexes,Level of education - not stated,Southern,
+2023,15 - 24 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2023,15 - 24 years,Male,Levels of Education (Levels 0-8),Northern and Western,
+2023,15 - 24 years,Male,Levels of Education (Levels 0-8),Southern,10.8
+2023,15 - 24 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,11.5
+2023,15 - 24 years,Male,Less than primary (Level 0),Northern and Western,
+2023,15 - 24 years,Male,Less than primary (Level 0),Southern,
+2023,15 - 24 years,Male,Less than primary (Level 0),Eastern and Midland,
+2023,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2023,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2023,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2023,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2023,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2023,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2023,15 - 24 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2023,15 - 24 years,Male,Tertiary education (Levels 5-8),Southern,
+2023,15 - 24 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,
+2023,15 - 24 years,Male,Level of education - not stated,Northern and Western,
+2023,15 - 24 years,Male,Level of education - not stated,Southern,
+2023,15 - 24 years,Male,Level of education - not stated,Eastern and Midland,
+2023,15 - 24 years,Female,Levels of Education (Levels 0-8),Northern and Western,
+2023,15 - 24 years,Female,Levels of Education (Levels 0-8),Southern,
+2023,15 - 24 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,9.8
+2023,15 - 24 years,Female,Less than primary (Level 0),Northern and Western,
+2023,15 - 24 years,Female,Less than primary (Level 0),Southern,
+2023,15 - 24 years,Female,Less than primary (Level 0),Eastern and Midland,
+2023,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2023,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2023,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2023,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2023,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2023,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2023,15 - 24 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2023,15 - 24 years,Female,Tertiary education (Levels 5-8),Southern,
+2023,15 - 24 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,
+2023,15 - 24 years,Female,Level of education - not stated,Northern and Western,
+2023,15 - 24 years,Female,Level of education - not stated,Southern,
+2023,15 - 24 years,Female,Level of education - not stated,Eastern and Midland,
+2023,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,3.4
+2023,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Southern,4.2
+2023,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,3.2
+2023,25 - 54 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2023,25 - 54 years,Both sexes,Less than primary (Level 0),Southern,
+2023,25 - 54 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2023,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2023,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,
+2023,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2023,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2023,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,6.3
+2023,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,4.1
+2023,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2023,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Southern,
+2023,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,2.3
+2023,25 - 54 years,Both sexes,Level of education - not stated,Northern and Western,
+2023,25 - 54 years,Both sexes,Level of education - not stated,Southern,
+2023,25 - 54 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2023,25 - 54 years,Male,Levels of Education (Levels 0-8),Northern and Western,
+2023,25 - 54 years,Male,Levels of Education (Levels 0-8),Southern,5.1
+2023,25 - 54 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,3.3
+2023,25 - 54 years,Male,Less than primary (Level 0),Northern and Western,
+2023,25 - 54 years,Male,Less than primary (Level 0),Southern,
+2023,25 - 54 years,Male,Less than primary (Level 0),Eastern and Midland,
+2023,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2023,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2023,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2023,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2023,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2023,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2023,25 - 54 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2023,25 - 54 years,Male,Tertiary education (Levels 5-8),Southern,
+2023,25 - 54 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,
+2023,25 - 54 years,Male,Level of education - not stated,Northern and Western,
+2023,25 - 54 years,Male,Level of education - not stated,Southern,
+2023,25 - 54 years,Male,Level of education - not stated,Eastern and Midland,
+2023,25 - 54 years,Female,Levels of Education (Levels 0-8),Northern and Western,
+2023,25 - 54 years,Female,Levels of Education (Levels 0-8),Southern,
+2023,25 - 54 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,3.1
+2023,25 - 54 years,Female,Less than primary (Level 0),Northern and Western,
+2023,25 - 54 years,Female,Less than primary (Level 0),Southern,
+2023,25 - 54 years,Female,Less than primary (Level 0),Eastern and Midland,
+2023,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2023,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2023,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2023,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2023,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2023,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2023,25 - 54 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2023,25 - 54 years,Female,Tertiary education (Levels 5-8),Southern,
+2023,25 - 54 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,
+2023,25 - 54 years,Female,Level of education - not stated,Northern and Western,
+2023,25 - 54 years,Female,Level of education - not stated,Southern,
+2023,25 - 54 years,Female,Level of education - not stated,Eastern and Midland,
+2023,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,
+2023,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Southern,
+2023,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,3.5
+2023,55 - 74 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2023,55 - 74 years,Both sexes,Less than primary (Level 0),Southern,
+2023,55 - 74 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2023,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2023,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,
+2023,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2023,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2023,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2023,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2023,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2023,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Southern,
+2023,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,
+2023,55 - 74 years,Both sexes,Level of education - not stated,Northern and Western,
+2023,55 - 74 years,Both sexes,Level of education - not stated,Southern,
+2023,55 - 74 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2023,55 - 74 years,Male,Levels of Education (Levels 0-8),Northern and Western,
+2023,55 - 74 years,Male,Levels of Education (Levels 0-8),Southern,
+2023,55 - 74 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,
+2023,55 - 74 years,Male,Less than primary (Level 0),Northern and Western,
+2023,55 - 74 years,Male,Less than primary (Level 0),Southern,
+2023,55 - 74 years,Male,Less than primary (Level 0),Eastern and Midland,
+2023,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2023,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2023,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2023,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2023,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2023,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2023,55 - 74 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2023,55 - 74 years,Male,Tertiary education (Levels 5-8),Southern,
+2023,55 - 74 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,
+2023,55 - 74 years,Male,Level of education - not stated,Northern and Western,
+2023,55 - 74 years,Male,Level of education - not stated,Southern,
+2023,55 - 74 years,Male,Level of education - not stated,Eastern and Midland,
+2023,55 - 74 years,Female,Levels of Education (Levels 0-8),Northern and Western,
+2023,55 - 74 years,Female,Levels of Education (Levels 0-8),Southern,
+2023,55 - 74 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,
+2023,55 - 74 years,Female,Less than primary (Level 0),Northern and Western,
+2023,55 - 74 years,Female,Less than primary (Level 0),Southern,
+2023,55 - 74 years,Female,Less than primary (Level 0),Eastern and Midland,
+2023,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2023,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2023,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2023,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2023,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2023,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2023,55 - 74 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2023,55 - 74 years,Female,Tertiary education (Levels 5-8),Southern,
+2023,55 - 74 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,
+2023,55 - 74 years,Female,Level of education - not stated,Northern and Western,
+2023,55 - 74 years,Female,Level of education - not stated,Southern,
+2023,55 - 74 years,Female,Level of education - not stated,Eastern and Midland,
+2024,All ages,Both sexes,Levels of Education (Levels 0-8),Northern and Western,4.2
+2024,All ages,Both sexes,Levels of Education (Levels 0-8),Southern,4.6
+2024,All ages,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,4.6
+2024,All ages,Both sexes,Less than primary (Level 0),Northern and Western,
+2024,All ages,Both sexes,Less than primary (Level 0),Southern,
+2024,All ages,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2024,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2024,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,11.9
+2024,All ages,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,10.2
+2024,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2024,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,4.8
+2024,All ages,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.6
+2024,All ages,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2024,All ages,Both sexes,Tertiary education (Levels 5-8),Southern,3.1
+2024,All ages,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,3.3
+2024,All ages,Both sexes,Level of education - not stated,Northern and Western,
+2024,All ages,Both sexes,Level of education - not stated,Southern,
+2024,All ages,Both sexes,Level of education - not stated,Eastern and Midland,
+2024,All ages,Male,Levels of Education (Levels 0-8),Northern and Western,4.9
+2024,All ages,Male,Levels of Education (Levels 0-8),Southern,4.1
+2024,All ages,Male,Levels of Education (Levels 0-8),Eastern and Midland,4.9
+2024,All ages,Male,Less than primary (Level 0),Northern and Western,
+2024,All ages,Male,Less than primary (Level 0),Southern,
+2024,All ages,Male,Less than primary (Level 0),Eastern and Midland,
+2024,All ages,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2024,All ages,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2024,All ages,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2024,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2024,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2024,All ages,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,6.1
+2024,All ages,Male,Tertiary education (Levels 5-8),Northern and Western,
+2024,All ages,Male,Tertiary education (Levels 5-8),Southern,
+2024,All ages,Male,Tertiary education (Levels 5-8),Eastern and Midland,3.4
+2024,All ages,Male,Level of education - not stated,Northern and Western,
+2024,All ages,Male,Level of education - not stated,Southern,
+2024,All ages,Male,Level of education - not stated,Eastern and Midland,
+2024,All ages,Female,Levels of Education (Levels 0-8),Northern and Western,
+2024,All ages,Female,Levels of Education (Levels 0-8),Southern,5.1
+2024,All ages,Female,Levels of Education (Levels 0-8),Eastern and Midland,4.2
+2024,All ages,Female,Less than primary (Level 0),Northern and Western,
+2024,All ages,Female,Less than primary (Level 0),Southern,
+2024,All ages,Female,Less than primary (Level 0),Eastern and Midland,
+2024,All ages,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2024,All ages,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2024,All ages,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2024,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2024,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2024,All ages,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,5.0
+2024,All ages,Female,Tertiary education (Levels 5-8),Northern and Western,
+2024,All ages,Female,Tertiary education (Levels 5-8),Southern,3.3
+2024,All ages,Female,Tertiary education (Levels 5-8),Eastern and Midland,3.3
+2024,All ages,Female,Level of education - not stated,Northern and Western,
+2024,All ages,Female,Level of education - not stated,Southern,
+2024,All ages,Female,Level of education - not stated,Eastern and Midland,
+2024,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,
+2024,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Southern,11.9
+2024,15 - 24 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,12.8
+2024,15 - 24 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2024,15 - 24 years,Both sexes,Less than primary (Level 0),Southern,
+2024,15 - 24 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2024,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2024,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,
+2024,15 - 24 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2024,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2024,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2024,15 - 24 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,12.0
+2024,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2024,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Southern,
+2024,15 - 24 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,
+2024,15 - 24 years,Both sexes,Level of education - not stated,Northern and Western,
+2024,15 - 24 years,Both sexes,Level of education - not stated,Southern,
+2024,15 - 24 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2024,15 - 24 years,Male,Levels of Education (Levels 0-8),Northern and Western,
+2024,15 - 24 years,Male,Levels of Education (Levels 0-8),Southern,
+2024,15 - 24 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,16.1
+2024,15 - 24 years,Male,Less than primary (Level 0),Northern and Western,
+2024,15 - 24 years,Male,Less than primary (Level 0),Southern,
+2024,15 - 24 years,Male,Less than primary (Level 0),Eastern and Midland,
+2024,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2024,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2024,15 - 24 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2024,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2024,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2024,15 - 24 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2024,15 - 24 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2024,15 - 24 years,Male,Tertiary education (Levels 5-8),Southern,
+2024,15 - 24 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,
+2024,15 - 24 years,Male,Level of education - not stated,Northern and Western,
+2024,15 - 24 years,Male,Level of education - not stated,Southern,
+2024,15 - 24 years,Male,Level of education - not stated,Eastern and Midland,
+2024,15 - 24 years,Female,Levels of Education (Levels 0-8),Northern and Western,
+2024,15 - 24 years,Female,Levels of Education (Levels 0-8),Southern,13.8
+2024,15 - 24 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,
+2024,15 - 24 years,Female,Less than primary (Level 0),Northern and Western,
+2024,15 - 24 years,Female,Less than primary (Level 0),Southern,
+2024,15 - 24 years,Female,Less than primary (Level 0),Eastern and Midland,
+2024,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2024,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2024,15 - 24 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2024,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2024,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2024,15 - 24 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2024,15 - 24 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2024,15 - 24 years,Female,Tertiary education (Levels 5-8),Southern,
+2024,15 - 24 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,
+2024,15 - 24 years,Female,Level of education - not stated,Northern and Western,
+2024,15 - 24 years,Female,Level of education - not stated,Southern,
+2024,15 - 24 years,Female,Level of education - not stated,Eastern and Midland,
+2024,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,
+2024,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Southern,3.7
+2024,25 - 54 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,3.5
+2024,25 - 54 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2024,25 - 54 years,Both sexes,Less than primary (Level 0),Southern,
+2024,25 - 54 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2024,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2024,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,
+2024,25 - 54 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2024,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2024,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2024,25 - 54 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,4.1
+2024,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2024,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Southern,2.8
+2024,25 - 54 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,2.9
+2024,25 - 54 years,Both sexes,Level of education - not stated,Northern and Western,
+2024,25 - 54 years,Both sexes,Level of education - not stated,Southern,
+2024,25 - 54 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2024,25 - 54 years,Male,Levels of Education (Levels 0-8),Northern and Western,
+2024,25 - 54 years,Male,Levels of Education (Levels 0-8),Southern,3.4
+2024,25 - 54 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,3.4
+2024,25 - 54 years,Male,Less than primary (Level 0),Northern and Western,
+2024,25 - 54 years,Male,Less than primary (Level 0),Southern,
+2024,25 - 54 years,Male,Less than primary (Level 0),Eastern and Midland,
+2024,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2024,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2024,25 - 54 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2024,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2024,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2024,25 - 54 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2024,25 - 54 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2024,25 - 54 years,Male,Tertiary education (Levels 5-8),Southern,
+2024,25 - 54 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,
+2024,25 - 54 years,Male,Level of education - not stated,Northern and Western,
+2024,25 - 54 years,Male,Level of education - not stated,Southern,
+2024,25 - 54 years,Male,Level of education - not stated,Eastern and Midland,
+2024,25 - 54 years,Female,Levels of Education (Levels 0-8),Northern and Western,
+2024,25 - 54 years,Female,Levels of Education (Levels 0-8),Southern,4.0
+2024,25 - 54 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,3.7
+2024,25 - 54 years,Female,Less than primary (Level 0),Northern and Western,
+2024,25 - 54 years,Female,Less than primary (Level 0),Southern,
+2024,25 - 54 years,Female,Less than primary (Level 0),Eastern and Midland,
+2024,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2024,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2024,25 - 54 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2024,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2024,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2024,25 - 54 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2024,25 - 54 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2024,25 - 54 years,Female,Tertiary education (Levels 5-8),Southern,
+2024,25 - 54 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,3.3
+2024,25 - 54 years,Female,Level of education - not stated,Northern and Western,
+2024,25 - 54 years,Female,Level of education - not stated,Southern,
+2024,25 - 54 years,Female,Level of education - not stated,Eastern and Midland,
+2024,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Northern and Western,
+2024,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Southern,
+2024,55 - 74 years,Both sexes,Levels of Education (Levels 0-8),Eastern and Midland,2.9
+2024,55 - 74 years,Both sexes,Less than primary (Level 0),Northern and Western,
+2024,55 - 74 years,Both sexes,Less than primary (Level 0),Southern,
+2024,55 - 74 years,Both sexes,Less than primary (Level 0),Eastern and Midland,
+2024,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2024,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Southern,
+2024,55 - 74 years,Both sexes,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2024,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2024,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2024,55 - 74 years,Both sexes,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2024,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Northern and Western,
+2024,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Southern,
+2024,55 - 74 years,Both sexes,Tertiary education (Levels 5-8),Eastern and Midland,
+2024,55 - 74 years,Both sexes,Level of education - not stated,Northern and Western,
+2024,55 - 74 years,Both sexes,Level of education - not stated,Southern,
+2024,55 - 74 years,Both sexes,Level of education - not stated,Eastern and Midland,
+2024,55 - 74 years,Male,Levels of Education (Levels 0-8),Northern and Western,
+2024,55 - 74 years,Male,Levels of Education (Levels 0-8),Southern,
+2024,55 - 74 years,Male,Levels of Education (Levels 0-8),Eastern and Midland,
+2024,55 - 74 years,Male,Less than primary (Level 0),Northern and Western,
+2024,55 - 74 years,Male,Less than primary (Level 0),Southern,
+2024,55 - 74 years,Male,Less than primary (Level 0),Eastern and Midland,
+2024,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2024,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Southern,
+2024,55 - 74 years,Male,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2024,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2024,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2024,55 - 74 years,Male,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2024,55 - 74 years,Male,Tertiary education (Levels 5-8),Northern and Western,
+2024,55 - 74 years,Male,Tertiary education (Levels 5-8),Southern,
+2024,55 - 74 years,Male,Tertiary education (Levels 5-8),Eastern and Midland,
+2024,55 - 74 years,Male,Level of education - not stated,Northern and Western,
+2024,55 - 74 years,Male,Level of education - not stated,Southern,
+2024,55 - 74 years,Male,Level of education - not stated,Eastern and Midland,
+2024,55 - 74 years,Female,Levels of Education (Levels 0-8),Northern and Western,
+2024,55 - 74 years,Female,Levels of Education (Levels 0-8),Southern,
+2024,55 - 74 years,Female,Levels of Education (Levels 0-8),Eastern and Midland,
+2024,55 - 74 years,Female,Less than primary (Level 0),Northern and Western,
+2024,55 - 74 years,Female,Less than primary (Level 0),Southern,
+2024,55 - 74 years,Female,Less than primary (Level 0),Eastern and Midland,
+2024,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Northern and Western,
+2024,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Southern,
+2024,55 - 74 years,Female,Primary and lower secondary education (Levels 1-2),Eastern and Midland,
+2024,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Northern and Western,
+2024,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Southern,
+2024,55 - 74 years,Female,Upper secondary and post-secondary non-tertiary education (Levels 3 and 4),Eastern and Midland,
+2024,55 - 74 years,Female,Tertiary education (Levels 5-8),Northern and Western,
+2024,55 - 74 years,Female,Tertiary education (Levels 5-8),Southern,
+2024,55 - 74 years,Female,Tertiary education (Levels 5-8),Eastern and Midland,
+2024,55 - 74 years,Female,Level of education - not stated,Northern and Western,
+2024,55 - 74 years,Female,Level of education - not stated,Southern,
+2024,55 - 74 years,Female,Level of education - not stated,Eastern and Midland,
